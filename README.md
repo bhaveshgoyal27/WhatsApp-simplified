@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # WhatsApp-simplified
 
 WhatsApp-groupadd is a Python code which helps it users to add people to a specific whatsapp group without directly saving their numbers.
